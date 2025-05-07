@@ -72,6 +72,7 @@ Metrik evaluasi yang digunakan:
 ### Hasil Evaluasi:
 
 **Random Forest Classifier**
+![alt text](https://github.com/Eva-Yuliana/dataset/blob/main/Diagram.png?raw=true)
 
 * Accuracy: 97.37%
 * Confusion Matrix: \[\[72 0] \[3 39]]
